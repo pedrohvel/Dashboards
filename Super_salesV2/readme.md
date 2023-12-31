@@ -35,9 +35,3 @@ Este repositório apresenta um projeto de análise de dados dedicado à explora�
 
 10. **Trajetória Temporal: Quantidade de Pedidos ao Longo do Tempo**
     - Acompanhe a dinâmica da quantidade de pedidos em gráficos interativos.
-
-## Explorando o Dashboard
-
-Para uma imersão completa nos dados de vendas da Superstore, acesse as visualizações interativas disponíveis na [imagem do dashboard](https://github.com/pedrohvel/Dashboards/blob/main/Super_salesV2/Inserir%20um%20t%C3%ADtulo.png?raw=true).
-
-SuperstoreSales DataAnalytics BusinessIntelligence DataRevolution
